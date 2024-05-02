@@ -20,7 +20,7 @@
  </div>
  
  <h2 align="center">
-  <a href="vercel-link" target="_blank">
+  <a href="https://trello-eta-smoky.vercel.app/" target="_blank">
     <img alt="Demo on Vercel" src="https://raw.githubusercontent.com/TiagoDiass/devjobs/main/screenshots/demo-on-vercel.png" />
   </a>
 </h2>
@@ -71,7 +71,7 @@
 </h2>
 
 I have deployed this application on [Vercel](https://vercel.com/). It's configured with a continuous deployment with this Github repository, that is, everytime the codebase from the `main` branch of this repository gets updated, Vercel will trigger a build of the project and will put it in production.
-[Click here to check the application running on Vercel](https://easyboards.vercel.app/)
+[Click here to check the application running on Vercel](https://trello-eta-smoky.vercel.app/)
 
 <h2 id="how-to-run" name="how-to-run">
   :arrow_forward: How to run
