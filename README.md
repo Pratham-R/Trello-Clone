@@ -33,7 +33,6 @@
 - [TypeScript](https://www.typescriptlang.org/) - Typescript is a superset of the common JavaScript. With that, we can type and maintain our code easier.
 - [Styled Components](https://styled-components.com/) - Styled components is a CSS-in-JS library.
 - [React Testing Library](https://testing-library.com/) - React Testing Library is a library that allows us to create unit and integration tests of React components.
-- [Storybook](https://storybook.js.org/) - Storybook is an open source tool for building UI components and pages in isolation. It `streamlines UI development, testing, and documentation.
 - [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/) - With ESLint and Prettier, we can improve our code quality by linting and auto formating it.
 
 <h2 id="features" name="features">
